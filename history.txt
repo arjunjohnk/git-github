@@ -1,0 +1,500 @@
+  157  Jan/10 -- 15:58:29 ./a.out 
+  158  Jan/10 -- 16:14:13 gfortran Read_COHERENT_BULK_C12.f90 
+  159  Jan/10 -- 16:15:06 gfortran Read_COHERENT_BULK_C12.f90 
+  160  Jan/10 -- 16:15:08 ./a.out 
+  161  Jan/10 -- 16:23:58 gfortran Read_COHERENT_BULK_C12.f90 
+  162  Jan/10 -- 16:23:59 ./a.out 
+  163  Jan/10 -- 16:24:09 gfortran Read_COHERENT_BULK_C12.f90 
+  164  Jan/10 -- 16:24:09 ./a.out 
+  165  Jan/10 -- 16:42:03 gfortran Read_COHERENT_BULK_C12.f90 
+  166  Jan/10 -- 16:42:08 gfortran Read_file_3.f90 
+  167  Jan/10 -- 16:42:09 ./a.out 
+  168  Jan/10 -- 16:43:05 gfortran Read_file_3.f90 
+  169  Jan/10 -- 16:43:07 ./a.out 
+  170  Jan/10 -- 17:14:02 gfortran Read_file_3.f90 
+  171  Jan/10 -- 17:14:02 ./a.out 
+  172  Jan/10 -- 17:14:24 gfortran Read_file_3.f90 
+  173  Jan/10 -- 17:14:24 ./a.out 
+  174  Jan/10 -- 17:15:42 gfortran Read_file_3.f90 
+  175  Jan/10 -- 17:15:43 ./a.out 
+  176  Jan/10 -- 17:16:00 gfortran Read_file_3.f90 
+  177  Jan/10 -- 17:16:02 ./a.out 
+  178  Jan/10 -- 17:22:16 gfortran Read_file_3.f90 
+  179  Jan/10 -- 17:22:33 gfortran Read_file_3.f90 
+  180  Jan/10 -- 17:22:35 ./a.out 
+  181  Jan/10 -- 17:23:11 gfortran Read_file_3.f90 
+  182  Jan/10 -- 17:23:12 ./a.out 
+  183  Jan/10 -- 17:35:33 gfortran Read_M_COHERENT_BULK_C12_DATA.f90 
+  184  Jan/10 -- 17:35:36 ./a.out 
+  185  Jan/10 -- 17:56:31 gfortran Read_file_1.f90 
+  186  Jan/10 -- 17:57:30 gfortran Read_file_1.f90 
+  187  Jan/10 -- 17:57:33 ./a.out 
+  188  Jan/10 -- 20:21:05 gfortran Read_file_2.f90 
+  189  Jan/10 -- 20:21:09 ./a.out 
+  190  Jan/10 -- 20:28:11 gfortran Read_file_2.f90 
+  191  Jan/10 -- 20:28:12 ./a.out 
+  192  Jan/10 -- 20:56:38 gfortran Read_file_2.f90 
+  193  Jan/10 -- 20:57:22 gfortran Read_file_2.f90 
+  194  Jan/10 -- 20:57:53 gfortran Read_file_2.f90 
+  195  Jan/10 -- 20:58:53 gfortran Read_file_2.f90 
+  196  Jan/10 -- 21:00:32 gfortran Read_file_2.f90 
+  197  Jan/10 -- 21:01:09 gfortran Read_file_2.f90 
+  198  Jan/10 -- 21:01:12 gfortran Read_file_2.f90 
+  199  Jan/10 -- 21:01:15 ./a.out 
+  200  Jan/11 -- 10:50:05 gfortran Read_file_2.f90 
+  201  Jan/11 -- 10:50:07 ./a.out 
+  202  Jan/11 -- 12:52:58 gfortran sample0.f95 
+  203  Jan/11 -- 12:53:00 ./a.out 
+  204  Jan/11 -- 12:53:31 gfortran sample0.f95 
+  205  Jan/11 -- 13:08:10 gfortran Read_file_2.f90 
+  206  Jan/11 -- 13:08:44 ./a.out 
+  207  Jan/11 -- 13:08:47 pwd
+  208  Jan/11 -- 13:09:07 gfortran Read_file_2.f90 
+  209  Jan/11 -- 13:09:47 gfortran Read_file_2.f90 
+  210  Jan/11 -- 13:09:50 ./a.out 
+  211  Jan/12 -- 11:42:55 gfortran Read_file_2.f90 
+  212  Jan/12 -- 11:42:57 ./a.out 
+  213  Jan/12 -- 11:45:51 gfortran Read_file_2.f90 
+  214  Jan/12 -- 11:45:53 ./a.out 
+  215  Jan/12 -- 11:58:14 gfortran Read_file_2.f90 
+  216  Jan/12 -- 11:58:15 ./a.out 
+  217  Jan/12 -- 12:45:57 gfortran Read_file_2.f90 
+  218  Jan/12 -- 12:45:58 ./a.out 
+  219  Jan/12 -- 11:42:35 ssh -Y arjun@mcenroe.iis.u-tokyo.ac.jp
+  220  Jan/12 -- 12:46:15 cd Desktop/
+  221  Jan/12 -- 12:46:20 gfortran Read_file_2.f90 
+  222  Jan/12 -- 12:46:22 ./a.out 
+  223  Jan/12 -- 12:46:39 cd Desktop/
+  224  Jan/12 -- 12:46:40 gfortran Read_file_2.f90 
+  225  Jan/12 -- 12:46:42 ./a.out 
+  226  Jan/12 -- 13:12:54 gfortran Read_file_2.f90 
+  227  Jan/12 -- 13:12:56 ./a.out 
+  228  Jan/12 -- 13:26:52 gfortran Check.f90 
+  229  Jan/12 -- 13:27:32 gfortran Check.f90 
+  230  Jan/12 -- 13:27:33 ./a.out 
+  231  Jan/12 -- 13:28:04 gfortran Check.f90 
+  232  Jan/12 -- 13:28:05 ./a.out 
+  233  Jan/12 -- 13:29:14 gfortran Check.f90 
+  234  Jan/12 -- 13:29:15 ./a.out 
+  235  Jan/12 -- 13:32:42 gfortran Check.f90 
+  236  Jan/12 -- 13:32:43 ./a.out 
+  237  Jan/12 -- 13:33:45 gfortran Check.f90 
+  238  Jan/12 -- 13:33:46 ./a.out 
+  239  Jan/12 -- 13:34:18 gfortran Check.f90 
+  240  Jan/12 -- 13:34:20 ./a.out 
+  241  Jan/12 -- 13:35:05 gfortran Check.f90 
+  242  Jan/12 -- 13:35:06 ./a.out 
+  243  Jan/12 -- 13:36:07 gfortran Check.f90 
+  244  Jan/12 -- 13:36:08 ./a.out 
+  245  Jan/12 -- 13:37:04 gfortran Check.f90 
+  246  Jan/12 -- 13:37:05 ./a.out 
+  247  Jan/12 -- 13:50:46 gfortran Check.f90 
+  248  Jan/12 -- 13:50:47 ./a.out 
+  249  Jan/12 -- 14:54:20 gfortran Check.f90 
+  250  Jan/12 -- 14:54:29 gfortran Read_file_2.f90 
+  251  Jan/12 -- 14:54:31 ./a.out 
+  252  Jan/12 -- 15:03:09 gfortran Read_file_2.f90 
+  253  Jan/12 -- 15:03:10 ./a.out 
+  254  Jan/12 -- 19:31:22 gfortran Read_file_2.f90 
+  255  Jan/12 -- 19:31:24 ./a.out 
+  256  Jan/14 -- 20:34:19 cd Desktop/
+  257  Jan/14 -- 20:34:24 gfortran Read_file_2.f90 
+  258  Jan/14 -- 20:34:26 ./a.out 
+  259  Jan/14 -- 20:55:26 gfortran Read_file_2.f90 
+  260  Jan/14 -- 20:56:28 ./a.out 
+  261  Jan/14 -- 20:56:30 gfortran Read_file_2.f90 
+  262  Jan/14 -- 20:57:01 gfortran Read_file_2.f90 
+  263  Jan/14 -- 20:57:02 ./a.out 
+  264  Jan/14 -- 21:01:10 gfortran Read_file_2.f90 
+  265  Jan/14 -- 21:01:21 pwd
+  266  Jan/14 -- 21:01:24 cd Desktop/
+  267  Jan/14 -- 21:01:27 gfortran Read_file_2.f90 
+  268  Jan/14 -- 21:01:29 ./a.out 
+  269  Jan/14 -- 21:06:13 gfortran Read_file_2.f90 
+  270  Jan/14 -- 21:06:14 ./a.out 
+  271  Jan/14 -- 21:09:12 gfortran Read_file_2.f90 
+  272  Jan/14 -- 21:09:12 ./a.out 
+  273  Jan/14 -- 21:11:08 gfortran Read_file_2.f90 
+  274  Jan/14 -- 21:11:08 ./a.out 
+  275  Jan/14 -- 21:16:29 gfortran Read_file_2.f90 
+  276  Jan/14 -- 21:16:29 ./a.out 
+  277  Jan/14 -- 21:18:22 gfortran Read_file_2.f90 
+  278  Jan/14 -- 21:18:23 ./a.out 
+  279  Jan/14 -- 21:22:09 gfortran Read_file_2.f90 
+  280  Jan/14 -- 21:22:10 ./a.out 
+  281  Jan/14 -- 21:25:37 gfortran Read_file_2.f90 
+  282  Jan/14 -- 21:25:38 ./a.out 
+  283  Jan/14 -- 21:31:28 gfortran Read_file_2.f90 
+  284  Jan/14 -- 21:31:29 ./a.out 
+  285  Jan/14 -- 21:34:14 gfortran Read_file_2.f90 
+  286  Jan/14 -- 21:34:15 ./a.out 
+  287  Jan/14 -- 21:35:41 gfortran Read_file_2.f90 
+  288  Jan/14 -- 21:35:49 gfortran Read_file_2.f90 
+  289  Jan/14 -- 21:35:50 ./a.out 
+  290  Jan/14 -- 21:36:09 gfortran Read_file_2.f90 
+  291  Jan/14 -- 21:36:10 ./a.out 
+  292  Jan/14 -- 21:37:32 ./a.out 
+  293  Jan/14 -- 21:37:34 gfortran Read_file_2.f90 
+  294  Jan/14 -- 21:37:35 ./a.out 
+  295  Jan/14 -- 21:38:51 gfortran Read_file_2.f90 
+  296  Jan/14 -- 21:38:51 ./a.out 
+  297  Jan/14 -- 21:39:26 gfortran Read_file_2.f90 
+  298  Jan/14 -- 21:39:27 ./a.out 
+  299  Jan/17 -- 14:07:41    
+  300  Jan/17 -- 14:07:49 gfortran b2vtk.f 
+  301  Jan/17 -- 14:07:52 ./a.out 
+  302  Jan/17 -- 14:10:25 gfortran b2vtk.f 
+  303  Jan/17 -- 14:10:26 ./a.out 
+  304  Jan/17 -- 14:12:03 gfortran b2vtk.f 
+  305  Jan/17 -- 14:12:04 ./a.out 
+  306  Jan/17 -- 14:12:15 ./a.out 
+  307  Jan/17 -- 14:12:34 gfortran b2vtk.f 
+  308  Jan/17 -- 14:12:37 ./a.out 
+  309  Jan/17 -- 14:17:49 gfortran b2vtk.f 
+  310  Jan/17 -- 14:17:50 ./a.out 
+  311  Jan/18 -- 14:35:50 /Volumes/NO\ NAME/Anaconda3-5.0.1-Linux-x86_64.sh; exit
+  312  Jan/18 -- 20:26:44 cd Desktop/
+  313  Jan/18 -- 20:26:50 gfortran lecture2016_kametani/
+  314  Jan/18 -- 20:26:56 cd lecture2016_kametani/
+  315  Jan/18 -- 20:27:01 gfortran b2vtk.f 
+  316  Jan/18 -- 20:27:04 ./a.out 
+  317  Jan/18 -- 20:31:40 pwd
+  318  Jan/18 -- 20:31:43 cd ..
+  319  Jan/18 -- 20:31:56 cd untitled\ folder \3
+  320  Jan/18 -- 20:31:58 ls
+  321  Jan/18 -- 20:32:49 cd ..
+  322  Jan/18 -- 20:32:51 pwd
+  323  Jan/18 -- 20:32:57 pwd
+  324  Jan/18 -- 20:33:00 cd /Users/arjunjohnk/Desktop/untitled\ folder\ 3 
+  325  Jan/18 -- 20:33:01 ls
+  326  Jan/18 -- 20:33:10 gfortran b2vtk.f 
+  327  Jan/18 -- 20:33:12 ./a.out 
+  328  Jan/18 -- 20:33:27 cd ..
+  329  Jan/18 -- 20:33:48 cd 
+  330  Jan/18 -- 20:35:50 pwd
+  331  Jan/18 -- 20:36:30 scp -r /Users/arjunjohnk/Desktop/data.vtk arjun@mcenroe.iis.u-tokyo.ac.jp:/work/arjun/
+  332  Jan/18 -- 20:37:45 scp -r /Users/arjunjohnk/Desktop/aa arjun@mcenroe.iis.u-tokyo.ac.jp:/work/arjun/
+  333  Jan/18 -- 20:38:35 cd aa
+  334  Jan/18 -- 20:38:39 pwd
+  335  Jan/18 -- 20:38:50 cd Desktop/
+  336  Jan/18 -- 20:38:52 cd aa
+  337  Jan/18 -- 20:38:53 ls
+  338  Jan/18 -- 20:39:02 gfortran b2vtk.f 
+  339  Jan/18 -- 20:40:27 gfortran -fconvert=big-endian b2vtk.f
+  340  Jan/18 -- 20:40:29 ./a.out 
+  341  Jan/18 -- 20:42:22 gfortran b2vtk.f 
+  342  Jan/18 -- 20:42:25 ./a.out 
+  343  Jan/18 -- 20:35:42 ssh -Y arjun@mcenroe.iis.u-tokyo.ac.jp
+  344  Jan/19 -- 10:12:29 cd Desktop/check/
+  345  Jan/19 -- 10:12:50 gfortran -fconvert=big-endian b2vtk.f 
+  346  Jan/19 -- 10:12:52 ./a.out 
+  347  Jan/19 -- 10:25:46 pwd
+  348  Jan/19 -- 10:25:48 cd ..
+  349  Jan/19 -- 10:25:57 cd Desktop/FINAL/
+  350  Jan/19 -- 10:26:01 gfortran -fconvert=big-endian b2vtk.f 
+  351  Jan/19 -- 10:26:04 ./a.out 
+  352  Jan/19 -- 11:41:05 cd ..
+  353  Jan/19 -- 11:41:17 ~
+  354  Jan/19 -- 11:41:20 .
+  355  Jan/19 -- 11:41:22 ./
+  356  Jan/19 -- 11:41:23 /
+  357  Jan/19 -- 11:41:26 ..
+  358  Jan/19 -- 11:41:37 cd
+  359  Jan/19 -- 11:41:39 pwd
+  360  Jan/19 -- 11:41:44 cd Desktop/
+  361  Jan/19 -- 11:41:55 vim -d Read_file_22.f90 Read_file_2.f90 
+  362  Jan/19 -- 11:46:25 vim -d a.txt b.txt 
+  363  Jan/19 -- 11:47:05 vim -d a.txt b.txt 
+  364  Jan/19 -- 12:55:49 gfortran Read_file_22.f90 
+  365  Jan/19 -- 12:55:52 ./a.out 
+  366  Jan/19 -- 12:57:08 gfortran Read_file_22.f90 
+  367  Jan/19 -- 12:57:10 ./a.out 
+  368  Jan/19 -- 12:58:51 gfortran Read_file_22.f90 
+  369  Jan/19 -- 12:58:52 ./a.out 
+  370  Jan/19 -- 12:59:58 gfortran Read_file_22.f90 
+  371  Jan/19 -- 12:59:59 ./a.out 
+  372  Jan/19 -- 13:01:55 gfortran Read_file_22.f90 
+  373  Jan/19 -- 13:02:40 gfortran Read_file_22.f90 
+  374  Jan/19 -- 13:02:42 gfortran Read_file_22.f90 
+  375  Jan/19 -- 13:02:43 ./a.out 
+  376  Jan/19 -- 13:05:01 gfortran Read_file_22.f90 
+  377  Jan/19 -- 13:05:03 ./a.out 
+  378  Jan/19 -- 13:05:07 gfortran Read_file_2.f90 
+  379  Jan/19 -- 13:05:09 ./a.out 
+  380  Jan/22 -- 13:25:03 cd Desktop/
+  381  Jan/22 -- 13:25:14 cd untitled\ folder \3
+  382  Jan/22 -- 13:25:15 ls
+  383  Jan/22 -- 13:25:22 cd ..
+  384  Jan/22 -- 13:25:47 cd untitled\ folder/Users/arjunjohnk/Desktop/untitled\ folder\ 3 
+  385  Jan/22 -- 13:25:49 pwd
+  386  Jan/22 -- 13:26:00 cd untitled\ folder\ 3
+  387  Jan/22 -- 13:26:02 ls
+  388  Jan/22 -- 13:27:54 gfortran b2vtk.f 
+  389  Jan/22 -- 13:27:56 ./a.out 
+  390  Jan/22 -- 13:28:26 gfortran -fconvert=big-endian b2vtk.f
+  391  Jan/22 -- 13:28:28 ./a.out 
+  392  Jan/22 -- 18:38:53 cd Desktop/
+  393  Jan/22 -- 18:40:01 vim -d Read_file_22.f90 Read_file_2.f90 
+  394  Jan/23 -- 11:55:01 gfortran Read_file_2.f90 
+  395  Jan/23 -- 11:55:05 ./a.out 
+  396  Jan/25 -- 13:21:29 https://github.com/arjunjohnk/git-github.git
+  397  Jan/25 -- 13:21:46 ssh https://github.com/arjunjohnk/git-github.git
+  398  Jan/25 -- 13:26:46 brew cask  git
+  399  Jan/25 -- 13:27:08 brew cask install git
+  400  Jan/25 -- 13:28:12 cd .
+  401  Jan/25 -- 13:28:13 cd .
+  402  Jan/25 -- 13:28:15 cd 
+  403  Jan/25 -- 13:28:16 ls
+  404  Jan/25 -- 13:28:31 brew casl list
+  405  Jan/25 -- 13:28:36 brew cask list
+  406  Jan/25 -- 13:28:43 cd git
+  407  Jan/25 -- 13:28:45 ls
+  408  Jan/25 -- 13:31:11 brew cask uninstall git
+  409  Jan/25 -- 13:31:27 brew cask install git
+  410  Jan/25 -- 13:32:49 ls
+  411  Jan/25 -- 13:32:56 cd L1
+  412  Jan/25 -- 13:32:59 cd Library/
+  413  Jan/25 -- 13:33:00 ls
+  414  Jan/25 -- 13:33:23 cd Caches/
+  415  Jan/25 -- 13:33:24 ls
+  416  Jan/25 -- 13:34:19 pwd
+  417  Jan/25 -- 13:34:25 cd Desktop/
+  418  Jan/25 -- 13:34:29 ssh echo "# git-github" >> README.md
+  419  Jan/25 -- 13:34:29 git init
+  420  Jan/25 -- 13:34:29 git add README.md
+  421  Jan/25 -- 13:34:29 git commit -m "first commit"
+  422  Jan/25 -- 13:34:29 git remote add origin https://github.com/arjunjohnk/git-github.git
+  423  Jan/25 -- 13:35:01 pwd
+  424  Jan/25 -- 13:46:11 git init
+  425  Jan/25 -- 13:51:08 which git
+  426  Jan/25 -- 13:51:35 git --version
+  427  Jan/25 -- 13:52:57 git config -l
+  428  Jan/25 -- 13:53:05 git config -l
+  429  Jan/25 -- 14:01:24 git config --global user.name "Arjun"
+  430  Jan/25 -- 14:01:40 git config --global user.email "arjunjohnk@gmail.com"
+  431  Jan/25 -- 14:01:45 git config -l
+  432  Jan/25 -- 14:02:29 ls -a
+  433  Jan/25 -- 14:03:55 git config -l
+  434  Jan/25 -- 14:05:12 ls -a
+  435  Jan/25 -- 14:11:01 pwd
+  436  Jan/25 -- 14:11:05 cd GitHub/
+  437  Jan/25 -- 14:11:07 ls
+  438  Jan/25 -- 14:11:23 git init
+  439  Jan/25 -- 14:11:29 ls
+  440  Jan/25 -- 14:12:19 pwd
+  441  Jan/25 -- 14:12:21 ls
+  442  Jan/25 -- 14:12:24 git init
+  443  Jan/25 -- 14:12:30 ls
+  444  Jan/25 -- 14:12:38 ls -a
+  445  Jan/25 -- 14:12:43 cd .git/
+  446  Jan/25 -- 14:12:45 ls
+  447  Jan/25 -- 14:16:34 ls
+  448  Jan/25 -- 14:16:40 cd ..
+  449  Jan/25 -- 14:16:40 ls
+  450  Jan/25 -- 14:16:43 -a
+  451  Jan/25 -- 14:16:45 k
+  452  Jan/25 -- 14:16:47 ls -a
+  453  Jan/25 -- 14:16:53 rm -r .git/
+  454  Jan/25 -- 14:16:55 ls
+  455  Jan/25 -- 14:17:07 mkdir Tutorial_1
+  456  Jan/25 -- 14:17:10 cd Tutorial_1/
+  457  Jan/25 -- 14:17:16 git init
+  458  Jan/25 -- 14:17:21 ls
+  459  Jan/25 -- 14:17:26 ls - a
+  460  Jan/25 -- 14:17:29 ls -a
+  461  Jan/25 -- 14:19:05 git remote add origin "https://github.com/arjunjohnk/git-github.git"
+  462  Jan/25 -- 14:20:31 git pull origin master
+  463  Jan/25 -- 14:28:16 git status
+  464  Jan/25 -- 14:28:38 git add Git\:GitHub.pages 
+  465  Jan/25 -- 14:28:40 git status
+  466  Jan/25 -- 14:37:59 git commit -m "adding first commit in local repo"
+  467  Jan/25 -- 14:38:39 get status
+  468  Jan/25 -- 14:38:49 git status
+  469  Jan/25 -- 14:39:07 ls
+  470  Jan/25 -- 14:40:18 ls
+  471  Jan/25 -- 14:40:41 ls
+  472  Jan/25 -- 14:40:47 git status
+  473  Jan/25 -- 14:42:56 git add -A
+  474  Jan/25 -- 14:42:59 git status
+  475  Jan/25 -- 14:45:19 git commit -am "adding 2 files together"
+  476  Jan/25 -- 14:45:49 git status
+  477  Jan/25 -- 14:46:12 git log
+  478  Jan/25 -- 14:48:23 git log
+  479  Jan/25 -- 14:48:35 git log
+  480  Jan/25 -- 14:48:58 git log
+  481  Jan/25 -- 14:03:14 cd 
+  482  Jan/25 -- 14:03:16 ls
+  483  Jan/25 -- 14:03:22 ls -a
+  484  Jan/25 -- 14:03:36 vim .gitconfig 
+  485  Jan/25 -- 14:06:19 git help config
+  486  Jan/25 -- 14:13:33 pwd
+  487  Jan/25 -- 14:13:37 cd D
+  488  Jan/25 -- 14:13:41 cd Desktop/
+  489  Jan/25 -- 14:13:42 ls
+  490  Jan/25 -- 14:13:45 ls -a
+  491  Jan/25 -- 14:13:49 cd .git/
+  492  Jan/25 -- 14:13:51 ls
+  493  Jan/25 -- 14:13:53 cd ..
+  494  Jan/25 -- 14:13:58 rm -r .git/
+  495  Jan/25 -- 14:14:20 ls -a
+  496  Jan/25 -- 14:36:15 git commit helpg
+  497  Jan/25 -- 14:36:18 git commit help
+  498  Jan/25 -- 14:36:32 git help
+  499  Jan/25 -- 14:47:55 cd 
+  500  Jan/25 -- 14:48:04 vim .gitconfig 
+  501  Jan/25 -- 14:49:34 cd Desktop/GitHub/Tutorial_1/
+  502  Jan/25 -- 14:49:36 ls
+  503  Jan/25 -- 14:49:44 git status
+  504  Jan/25 -- 14:50:01 git log
+  505  Jan/25 -- 14:51:52 git config -l
+  506  Jan/25 -- 14:52:58 git s
+  507  Jan/25 -- 15:19:25 pwd
+  508  Jan/25 -- 15:19:29 git s
+  509  Jan/25 -- 15:20:07 git branch first_branch
+  510  Jan/25 -- 15:20:26 git checkot first_branch
+  511  Jan/25 -- 15:20:38 git checkout first_branch
+  512  Jan/25 -- 15:20:42 git s
+  513  Jan/25 -- 15:20:59 pwd
+  514  Jan/25 -- 15:21:02 ls
+  515  Jan/25 -- 15:22:20 git s
+  516  Jan/25 -- 15:22:36 git checkout master
+  517  Jan/25 -- 15:22:42 git s
+  518  Jan/25 -- 15:22:51 git checkout first_branch
+  519  Jan/25 -- 15:22:54 git s
+  520  Jan/25 -- 15:24:58 git s
+  521  Jan/25 -- 15:25:34 git add Git\:GitHub_3.pages 
+  522  Jan/25 -- 15:25:37 git s
+  523  Jan/25 -- 15:26:46 git commit -m "making changes in the first branch"
+  524  Jan/25 -- 15:26:50 git s
+  525  Jan/25 -- 15:27:09 git checkout master
+  526  Jan/25 -- 15:27:12 git s
+  527  Jan/25 -- 15:27:22 ls
+  528  Jan/25 -- 15:27:38 git checkout first_branch
+  529  Jan/25 -- 15:27:45 ls
+  530  Jan/25 -- 15:37:00 git s
+  531  Jan/25 -- 15:37:10 git checkout master
+  532  Jan/25 -- 15:37:15 git s
+  533  Jan/25 -- 15:38:07 git merge first_brach
+  534  Jan/25 -- 15:38:28 git s
+  535  Jan/25 -- 15:38:39 git merge first_branch
+  536  Jan/25 -- 15:38:46 ls
+  537  Jan/25 -- 15:38:58 git checkout first_branch
+  538  Jan/25 -- 15:39:01 ls
+  539  Jan/25 -- 15:39:53 git s
+  540  Jan/25 -- 15:40:50 ls
+  541  Jan/25 -- 15:40:53 git s
+  542  Jan/25 -- 15:41:54 git add Git\:GitHub_3.pages 
+  543  Jan/25 -- 15:43:01 git s
+  544  Jan/25 -- 15:43:38 git commit "changes made in the file in first_brach"
+  545  Jan/25 -- 15:43:57 git commit -m "changes made in the file in first_brach"
+  546  Jan/25 -- 15:44:01 git s
+  547  Jan/25 -- 15:44:08 git checkout first_branch
+  548  Jan/25 -- 15:45:02 git checkout master
+  549  Jan/25 -- 15:45:48 git checkout first_branch
+  550  Jan/25 -- 15:46:04 git checkout master
+  551  Jan/25 -- 19:43:51 pwd
+  552  Jan/25 -- 19:44:08 git s
+  553  Jan/25 -- 19:44:26 git diff
+  554  Jan/25 -- 19:44:29 git s
+  555  Jan/25 -- 19:44:49 git diff
+  556  Jan/25 -- 19:45:12 git s
+  557  Jan/25 -- 19:50:05 git commit -am 
+  558  Jan/25 -- 19:50:30 git commit -am "checking"
+  559  Jan/25 -- 19:50:37 git s
+  560  Jan/25 -- 19:50:44 git log
+  561  Jan/25 -- 19:51:15 git log
+  562  Jan/25 -- 19:51:55 git log > git_log.txt
+  563  Jan/25 -- 19:54:49 git checkout a03378 Git\:GitHub_3.pages 
+  564  Jan/25 -- 19:55:16 vim Git\:GitHub_3.pages 
+  565  Jan/25 -- 19:55:29 cat Git\:GitHub_3.pages 
+  566  Jan/25 -- 19:56:00 git log
+  567  Jan/25 -- 20:19:45 git branch
+  568  Jan/25 -- 20:21:29 git checkout -b second_branch
+  569  Jan/25 -- 20:21:34 ls
+  570  Jan/25 -- 20:27:09 git s
+  571  Jan/25 -- 20:32:19 git s
+  572  Jan/25 -- 20:32:31 git add Git\:GitHub_3.pages 
+  573  Jan/25 -- 20:32:33 git s
+  574  Jan/25 -- 20:34:28 git add git_log.txt 
+  575  Jan/25 -- 20:34:31 git s
+  576  Jan/25 -- 20:38:45 git commit -am "additional commands"
+  577  Jan/25 -- 20:38:50 git s
+  578  Jan/25 -- 20:39:09 git checkout master
+  579  Jan/25 -- 20:39:47 git merge second_branch
+  580  Jan/25 -- 20:41:54 mv Git\:GitHub_3.pages Git\:GitHub_3
+  581  Jan/25 -- 20:42:04 git s
+  582  Jan/25 -- 20:42:48 git checkout -- Git\:GitHub_3 
+  583  Jan/25 -- 20:45:25 git commit -am "Name change"
+  584  Jan/25 -- 20:45:44 git s
+  585  Jan/25 -- 20:46:37 git s
+  586  Jan/25 -- 20:46:55 git add Git\:GitHub_3 
+  587  Jan/25 -- 20:46:59 git s
+  588  Jan/25 -- 20:47:13 git commit Git\:GitHub_
+  589  Jan/25 -- 20:47:15 git commit Git\:GitHub_3 
+  590  Jan/25 -- 20:47:29 git commit Git\:GitHub_3 
+  591  Jan/25 -- 20:47:44 git commit Git\:GitHub_3 "Name change"
+  592  Jan/25 -- 20:48:01 git commit -m Git\:GitHub_3 "Name change"
+  593  Jan/25 -- 20:48:20 git s
+  594  Jan/25 -- 20:48:34 git commit -m Git\:GitHub_3 "Name change"
+  595  Jan/25 -- 20:48:49 git commit -m Git\:GitHub_3 "New change"
+  596  Jan/25 -- 20:49:08 git commit -m Git\:GitHub_3 "new name"
+  597  Jan/25 -- 20:49:58 mv Git\:GitHub_3 Git\:GitHub_3.pages 
+  598  Jan/25 -- 20:50:29 git s
+  599  Jan/25 -- 20:50:39 git add Git\:GitHub_3.pages 
+  600  Jan/25 -- 20:50:43 git s
+  601  Jan/25 -- 20:51:24 git commt Git\:GitHub_3.pages 
+  602  Jan/25 -- 20:51:40 git commit Git\:GitHub_3.pages 
+  603  Jan/25 -- 20:51:51 git commit Git\:GitHub_3.pages "Name"
+  604  Jan/25 -- 20:53:57 git s
+  605  Jan/25 -- 20:54:47 git checkot second_branch
+  606  Jan/25 -- 20:54:55 git checkout second_branch
+  607  Jan/25 -- 20:54:59 git s
+  608  Jan/25 -- 20:55:12 ls
+  609  Jan/25 -- 20:55:41 git s
+  610  Jan/25 -- 20:56:47 git commit -m "Name"
+  611  Jan/25 -- 20:56:53 git s
+  612  Jan/25 -- 20:57:08 git rm Git\:GitHub_3.pages 
+  613  Jan/25 -- 20:57:17 git s
+  614  Jan/25 -- 20:57:43 git reset HEAD Git\:GitHub_3
+  615  Jan/25 -- 20:58:02 git reset HEAD Git\:GitHub_3.pages
+  616  Jan/25 -- 20:58:06 git s
+  617  Jan/25 -- 20:58:34 git checkout -- Git:GitHub_3
+  618  Jan/25 -- 20:58:52 Git:GitHub_3.pages
+  619  Jan/25 -- 20:59:03 git s
+  620  Jan/25 -- 20:59:24 mv Git\:GitHub_3 Git\:GitHub_3.pages
+  621  Jan/25 -- 20:59:32 git s
+  622  Jan/25 -- 20:59:49 git commmit -m "1"
+  623  Jan/25 -- 20:59:54 git commit -m "1"
+  624  Jan/25 -- 21:00:17 git add Git\:GitHub_3.pages 
+  625  Jan/25 -- 21:00:20 git s
+  626  Jan/25 -- 21:00:34 git add Git\:GitHub_3
+  627  Jan/25 -- 21:00:37 git s
+  628  Jan/25 -- 21:01:26 git commit "2"
+  629  Jan/25 -- 21:01:32 git commit -m "2"
+  630  Jan/25 -- 21:01:36 git s
+  631  Jan/25 -- 21:02:02 git checkout masters
+  632  Jan/25 -- 21:02:09 git s
+  633  Jan/25 -- 21:02:14 git brach
+  634  Jan/25 -- 21:02:19 git branch
+  635  Jan/25 -- 21:02:24 git checkout master
+  636  Jan/25 -- 21:02:40 git merge second_branch
+  637  Jan/25 -- 21:03:25 git branch -D second_branch
+  638  Jan/25 -- 21:03:36 git branch
+  639  Jan/25 -- 21:04:06 g
+  640  Jan/25 -- 21:04:11 git -s
+  641  Jan/25 -- 21:04:15 git s
+  642  Jan/25 -- 21:04:45 ls
+  643  Jan/25 -- 21:05:30 git merge first_branch
+  644  Jan/25 -- 21:05:43 git s
+  645  Jan/25 -- 21:05:49 ls
+  646  Jan/25 -- 21:06:06 git  checkout first_branch
+  647  Jan/25 -- 21:06:13 git s
+  648  Jan/25 -- 21:07:07 git commit -am "3" 
+  649  Jan/25 -- 21:07:13 git s
+  650  Jan/25 -- 21:07:16 ls
+  651  Jan/25 -- 21:07:40 git  checkout first_branch
+  652  Jan/25 -- 21:07:43 git s
+  653  Jan/25 -- 21:07:46 ls
+  654  Jan/25 -- 21:08:13 git log
+  655  Jan/25 -- 21:08:50 history >history .text
+  656  Jan/25 -- 21:09:02 history >history.txt
